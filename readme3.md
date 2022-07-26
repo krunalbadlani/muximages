@@ -304,7 +304,7 @@ The instruction executed is = 0b1000000000000000111000000110011
 
 - inputs: src1 = 0xf335cf95 , src2 = 0xb1655892, src3 = 0x0, instructions = all values from the list 'instr'
 - Expected output: 'PASS' for all instructions whose expected values are taken by the test from the reference model.
-- Observed output in the DUT dut.seq_seen = FAIL for 'ANDN 1'' instruction and PASS for all other instructions.
+- Observed output in the DUT = FAIL for 'ANDN 1'' instruction and PASS for all other instructions.
 
 
 
