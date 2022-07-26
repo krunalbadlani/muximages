@@ -72,7 +72,7 @@ Bug1 :-
 Bug2 :-
 ```verilog
 5'b11101: out = inp29;
-//case for inp30 is missing
+//case for inp30 is missing //BUG2
 default: out = 0;
 ```
 ### **Design Fix**
