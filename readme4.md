@@ -277,4 +277,4 @@ The design here is of a LCD interfacing circuit. The circuit takes input as cloc
 
 ### **Is the verification complete?**
 ---
-The functionality of the LCD interfacing circuit is completely verified here.
+The functionality of the LCD interfacing circuit for the word 'verilog' to be displayed is completely verified here.
